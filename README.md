@@ -18,4 +18,4 @@
 
 ### Resutados
 
-![Alt text](./Resultado.png "Optional title")
+![Print do console do Kali](https://github.com/VOQuirino/cibersecurity-desafio-phishing/blob/master/Resultado.jpg "Optional title")
